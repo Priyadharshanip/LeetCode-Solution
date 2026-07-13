@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
