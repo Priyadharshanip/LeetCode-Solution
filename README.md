@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
+| [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
