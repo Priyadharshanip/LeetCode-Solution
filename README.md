@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
@@ -85,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
