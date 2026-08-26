@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0496-next-greater-element-i](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
