@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0138-copy-list-with-random-pointer) |
+| [0876-middle-of-the-linked-list](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
