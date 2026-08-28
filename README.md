@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -126,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0200-number-of-islands) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
