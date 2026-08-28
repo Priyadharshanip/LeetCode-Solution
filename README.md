@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0678-valid-parenthesis-string](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 ## Matrix
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
@@ -142,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Priyadharshanip/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
